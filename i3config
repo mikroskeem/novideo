@@ -1,0 +1,1 @@
+exec --no-startup-id /usr/local/bin/display_setup.sh
